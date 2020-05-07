@@ -16,7 +16,8 @@
   </a>
   <!-- Codefactor grade -->
   <a href="https://www.codefactor.io/repository/github/openzim/ted">
-    <img alt="CodeFactor Grade" src="https://img.shields.io/codefactor/grade/github/openzim/ted/master?    label=codefactor&style=for-the-badge">
+    <img alt="CodeFactor Grade"
+     src="https://img.shields.io/codefactor/grade/github/openzim/ted/master?label=codefactor&style=for-the-badge">
   </a>
   <!-- License -->
   <a href="https://www.gnu.org/licenses/gpl-3.0">
