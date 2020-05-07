@@ -34,7 +34,7 @@ This project is aimed at creating a sustainable solution to make TED accessible 
 ## Getting started :rocket:
 
 #### Install the dependencies
-Make sure that you have python3, unzip, ffmpeg, wget and curl installed on your system before running the scraper (otherwise you'll get a warning to install them). 
+Make sure that you have `python3`, `unzip`, `ffmpeg`, `wget` and `curl` installed on your system before running the scraper (otherwise you'll get a warning to install them). 
 
 #### Setup the package
 One can eaisly install the PyPI version but let's setup the source version. Firstly, clone this repository and install the package as given below.
@@ -57,7 +57,12 @@ Example usage
 ted2zim --topics="augmented reality" --max-videos-per-topic=10 --debug --name="augumented_reality" --format=mp4 --title="Augmented Reality" --description="TED videos in AR category" --creator="TED" --publisher="openzim" --output="output" --keep --low-quality
 ```
 
-## License
+This project can also be run with docker. Use the provided [Dockerfile](Dockerfile) to run it with docker. See steps [here](https://docs.docker.com/get-started/part2/).
+
+## Features :robot:
+You can create ZIMs for multiple topics (should be same as given [here](https://ted.com/talks)), choose between different video formats (webm/mp4), different compression rates, and even use an S3 based cache.
+
+## License :book:
 
 [GPLv3](https://www.gnu.org/licenses/gpl-3.0) or later, see
 [LICENSE](LICENSE) for more details.
