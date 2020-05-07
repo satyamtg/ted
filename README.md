@@ -1,12 +1,36 @@
+<h1 align="center">ted2zim</h1>
+
+<div align="center">
+  <strong>Get the best :bulb: TED videos offline :arrow_down:</strong>
+</div>
+<div align="center">
+  An offliner to create ZIM :package: files from TED talks
+</div>
+
+<br />
+
+<div align="center">
+  <!-- PyPI version -->
+  <a href="https://pypi.org/project/ted2zim/">
+    <img alt="PyPI" src="https://img.shields.io/pypi/v/ted2zim?style=for-the-badge">
+  </a>
+  <!-- Codefactor grade -->
+  <a href="https://www.codefactor.io/repository/github/openzim/ted">
+    <img alt="CodeFactor Grade" src="https://img.shields.io/codefactor/grade/github/openzim/ted/master?    label=codefactor&style=for-the-badge">
+  </a>
+  <!-- License -->
+  <a href="https://www.gnu.org/licenses/gpl-3.0">
+    <img alt="GitHub" src="https://img.shields.io/github/license/openzim/ted?color=blueviolet&style=for-the-badge">
+  </a>
+</div>
+
+
+
 # TED Scraper
 
 TED (Technology, Entertainment, Design) is a global set of conferences under the slogan "ideas worth spreading". They address a wide range of topics within the research and practice of science and culture, often through storytelling. The speakers are given a maximum of 18 minutes to present their ideas in the most innovative and engaging ways they can. Its web site is https://www.ted.com.
 
 The purpose of this project is to create a sustainable solution to create ZIM files providing the TED and TEDx videos in a similar manner like online.
-
-[![CodeFactor](https://www.codefactor.io/repository/github/openzim/ted/badge)](https://www.codefactor.io/repository/github/openzim/ted)
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![PyPI version shields.io](https://img.shields.io/pypi/v/ted2zim.svg)](https://pypi.org/project/ted2zim/)
 
 
 ## Running the project
